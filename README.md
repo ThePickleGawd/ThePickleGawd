@@ -1,13 +1,24 @@
-### Hi, I'm Dylan 👋
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        Hey, I'm Dylan 👋
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 I build cool things with AI/ML, and on the side, I also do fullstack and game dev.
 
-#### About
+<img src="https://github.com/user-attachments/assets/5ba15ca1-dad3-4529-a47b-efa56e27e9ee" width="20" height="20" valign="middle"> [Blog](https://blog.dylanlu.com) | [Resume](https://dylanlu.com/resume.pdf)
 
-Check out my blog: https://blog.dylanlu.com
+### 🛠️ Recent Projects
 
-#### 🛠️ Recent Projects
+- Reinforcement Learning for Geometry Dash. [Repo](https://github.com/ThePickleGawd/geometry-dash-ai)
+- Fine-Tuned, Local LLM for OpenAI Codex CLI (Made for macOS). [Repo](https://github.com/ThePickleGawd/CLI-O)
+- VR Chinese Learning with Realtime Conversations. [Repo](https://github.com/ThePickleGawd/run-from-duo) | [Blog Post](https://blog.dylanlu.com/run-from-duo/)
+- Ping Pong Video to 3D Scene. [Repo](https://github.com/ccs-cs1l-f24/SLAM-TT) | [Blog Post](https://blog.dylanlu.com/slam-tt/)
 
-
-#### 💼 Experience
-
+### 💼 Experience
+- Software/ML Intern @ TetraMem (Incoming 2025)
+- Embedded Software Intern @ Atmosic (2022)
