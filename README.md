@@ -1,4 +1,13 @@
-## "Keep training and get stronger. I'll always be the one step ahead of you though"
+### Hi, I'm Dylan 👋
 
-[![Goku](https://dragonball.guru/wp-content/uploads/2021/01/goku-dragon-ball-guru.jpg)](https://blog.dylanlu.com)
+I build cool things with AI/ML, and on the side, I also do fullstack and game dev.
+
+#### About
+
+Check out my blog: https://blog.dylanlu.com
+
+#### 🛠️ Recent Projects
+
+
+#### 💼 Experience
 
