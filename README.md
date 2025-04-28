@@ -20,8 +20,14 @@ I build cool things with AI/ML. For fun, I also do fullstack and game dev.
 - Ping Pong Video to 3D Scene. [Repo](https://github.com/ccs-cs1l-f24/SLAM-TT) | [Blog Post](https://blog.dylanlu.com/slam-tt/)
 
 ### 💼 Experience
-- Software/ML Intern @ TetraMem (Incoming 2025)
-- Embedded Software Intern @ Atmosic (2022)
+- Software/ML Intern @ [TetraMem](https://www.tetramem.com/technology) (Incoming 2025)
+- Embedded Software Intern @ [Atmosic](https://atmosic.com/technology) (2022)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+---
 
 ![Goku](https://raw.githubusercontent.com/ThePickleGawd/ThePickleGawd/main/docs/goku-kid.jpg)
 
