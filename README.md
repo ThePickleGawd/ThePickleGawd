@@ -10,7 +10,9 @@
 
 I build cool things with AI/ML, and on the side, I also do fullstack and game dev.
 
-<img src="https://github.com/user-attachments/assets/5ba15ca1-dad3-4529-a47b-efa56e27e9ee" width="20" height="20" valign="middle"> [Blog](https://blog.dylanlu.com) | [Resume](https://dylanlu.com/resume.pdf)
+
+
+<img src="https://raw.githubusercontent.com/ThePickleGawd/ThePickleGawd/main/docs/dragon_ball_emoji.png" width="20" height="20" valign="middle"> [Blog](https://blog.dylanlu.com) | [Resume](https://dylanlu.com/resume.pdf)
 
 ### 🛠️ Recent Projects
 
