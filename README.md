@@ -29,7 +29,7 @@ I build cool things with AI/ML. For fun, I also do fullstack and game dev.
 
 ---
 
-![Goku](https://raw.githubusercontent.com/ThePickleGawd/ThePickleGawd/main/docs/goku-kid.jpg)
+[![Goku](https://raw.githubusercontent.com/ThePickleGawd/ThePickleGawd/main/docs/goku-kid.jpg)](https://blog.dylanlu.com)
 
 > "Keep training and get stronger... I'll always be one step ahead of you, though!"
 > 
