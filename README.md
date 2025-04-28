@@ -8,11 +8,9 @@
   </ul>
 </div>
 
-I build cool things with AI/ML, and on the side, I also do fullstack and game dev.
+I build cool things with AI/ML. For fun, I also do fullstack and game dev.
 
-
-
-<img src="https://raw.githubusercontent.com/ThePickleGawd/ThePickleGawd/main/docs/dragon_ball_emoji.png" width="20" height="20" valign="middle"> [Blog](https://blog.dylanlu.com) | [Resume](https://dylanlu.com/resume.pdf)
+[Blog](https://blog.dylanlu.com) | [Resume](https://dylanlu.com/resume.pdf)
 
 ### 🛠️ Recent Projects
 
@@ -24,3 +22,9 @@ I build cool things with AI/ML, and on the side, I also do fullstack and game de
 ### 💼 Experience
 - Software/ML Intern @ TetraMem (Incoming 2025)
 - Embedded Software Intern @ Atmosic (2022)
+
+![Goku](https://raw.githubusercontent.com/ThePickleGawd/ThePickleGawd/main/docs/goku-kid.jpg)
+
+> "Keep training and get stronger... I'll always be one step ahead of you, though!"
+> 
+> — Goku
