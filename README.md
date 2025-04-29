@@ -15,9 +15,9 @@ I build cool things with AI/ML. For fun, I also do fullstack and game dev.
 ### 🛠️ Recent Projects
 
 - Reinforcement Learning for Geometry Dash. [Repo](https://github.com/ThePickleGawd/geometry-dash-ai)
-- Fine-Tuned Local LLM with RAG for OpenAI Codex CLI (Made for macOS). [Repo](https://github.com/ThePickleGawd/CLI-O)
+- Fine-Tuned Local LLM with RAG for OpenAI Codex CLI. [Repo](https://github.com/ThePickleGawd/CLI-O)
 - VR Chinese Learning with Realtime Conversations. [Repo](https://github.com/ThePickleGawd/run-from-duo) | [Blog Post](https://blog.dylanlu.com/run-from-duo/)
-- Ping Pong Video to 3D Scene. [Repo](https://github.com/ccs-cs1l-f24/SLAM-TT) | [Blog Post](https://blog.dylanlu.com/slam-tt/)
+- Ping Pong Video to Live 3D Scene. [Repo](https://github.com/ccs-cs1l-f24/SLAM-TT) | [Blog Post](https://blog.dylanlu.com/slam-tt/)
 
 ### 💼 Experience
 - Software/ML Intern @ [TetraMem](https://www.tetramem.com/technology) (Incoming 2025)
