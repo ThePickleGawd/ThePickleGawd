@@ -14,10 +14,12 @@ I build cool things with AI/ML. For fun, I also do fullstack and game dev.
 
 ### 🛠️ Recent Projects
 
-- Reinforcement Learning for Geometry Dash. [Repo](https://github.com/ThePickleGawd/geometry-dash-ai) | [Demo](https://youtu.be/PKDMGPf-PEA)
-- Realtime Agentic Speech LLMs for macOS. [Repo](https://github.com/ThePickleGawd/realtime-speech-agents) | [Demo](https://drive.google.com/file/d/1JloowwSbQ0DcNZWMM6BvuEYxB-4Mc93c/view?usp=drive_link)
-- VR Chinese Learning with Realtime Conversations. [Repo](https://github.com/ThePickleGawd/run-from-duo) | [Demo](https://youtu.be/EEfnGCmj86o) | [Blog](https://blog.dylanlu.com/run-from-duo/)
-- Ping Pong Video to Live 3D Scene. [Repo](https://github.com/ccs-cs1l-f24/SLAM-TT) | [Demo](https://youtu.be/F_HpfIQpiJo) | [Blog](https://blog.dylanlu.com/slam-tt/)
+Project | Repo | Demo | Blog
+------- | ---- | ---- | ----
+Reinforcement Learning for Geometry Dash | [GitHub](https://github.com/ThePickleGawd/geometry-dash-ai) | [YouTube](https://youtu.be/PKDMGPf-PEA) | –
+Realtime Agentic Speech LLMs for macOS | [GitHub](https://github.com/ThePickleGawd/realtime-speech-agents) | [Google Drive](https://drive.google.com/file/d/1JloowwSbQ0DcNZWMM6BvuEYxB-4Mc93c/view) | –
+VR Chinese Learning with Realtime Conversations | [GitHub](https://github.com/ThePickleGawd/run-from-duo) | [YouTube](https://youtu.be/EEfnGCmj86o) | [Blog](https://blog.dylanlu.com/run-from-duo/)
+Ping Pong Video to Live 3D Scene | [GitHub](https://github.com/ccs-cs1l-f24/SLAM-TT) | [YouTube](https://youtu.be/F_HpfIQpiJo) | [Blog](https://blog.dylanlu.com/slam-tt/)
 
 ### 💼 Experience
 - Software/ML Intern @ [TetraMem](https://www.tetramem.com/technology) (Incoming 2025)
