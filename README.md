@@ -22,7 +22,7 @@ VR Chinese Learning with Realtime Conversations | [GitHub](https://github.com/Th
 Ping Pong Video to Live 3D Scene | [GitHub](https://github.com/ccs-cs1l-f24/SLAM-TT) | [YouTube](https://youtu.be/F_HpfIQpiJo) | [Blog](https://blog.dylanlu.com/slam-tt/)
 
 ### 💼 Experience
-- Software/ML Intern @ [TetraMem](https://www.tetramem.com/technology) (Incoming 2025)
+- Software/ML Intern @ [TetraMem](https://www.tetramem.com/technology) (2025)
 - Embedded Software Intern @ [Atmosic](https://atmosic.com/technology) (2022)
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
