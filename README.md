@@ -10,7 +10,7 @@
 
 I build cool things with AI/ML. For fun, I also do fullstack and game dev.
 
-[Blog](https://blog.dylanlu.com) | [Resume](https://www.dylanlu.com/dylan-lu-resume.pdf)
+[Blog](https://blog.dylanlu.com) | [Resume](https://flowcv.com/resume/wvn6su5ue1)
 
 ### 🛠️ Recent Projects
 
