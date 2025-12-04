@@ -23,8 +23,8 @@ VR Duolingo with Realtime Conversations | [GitHub](https://github.com/ThePickleG
 Ping Pong Video Reconstruction with AI | [GitHub](https://github.com/ccs-cs1l-f24/SLAM-TT) | [YouTube](https://youtu.be/F_HpfIQpiJo) | [Blog](https://blog.dylanlu.com/slam-tt/)
 
 ### 💼 Experience
-- Software/ML Intern @ [TetraMem](https://www.tetramem.com/technology) (2025)
-- Embedded Software Intern @ [Atmosic](https://atmosic.com/technology) (2022)
+- Machine Learning Engineering Intern @ [TetraMem](https://www.tetramem.com/technology) (2025)
+- Software Engineering Intern @ [Atmosic](https://atmosic.com/technology) (2022)
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
