@@ -8,7 +8,7 @@
   </ul>
 </div>
 
-I build cool things with AI/ML. For fun, I also do fullstack and game dev.
+I research AI agents and Reinforcement Learning. I also won the [world's largest collegiate hackathon](https://www.calhacks.io/).
 
 [Blog](https://blog.dylanlu.com) | [Resume](https://flowcv.com/resume/wvn6su5ue1)
 
@@ -16,13 +16,15 @@ I build cool things with AI/ML. For fun, I also do fullstack and game dev.
 
 Project | Repo | Demo | Blog
 ------- | ---- | ---- | ----
-FaceTimeOS (1st Place overall @ Cal Hacks 12.0) | [GitHub](https://github.com/ThePickleGawd/FaceTimeOS) | [YouTube](https://www.youtube.com/watch?v=zN96RdE0OSg) | [Blog](https://blog.dylanlu.com/cal-hacks-12)
+FaceTimeOS (1st Grand Prize @ Cal Hacks 12.0) | [GitHub](https://github.com/ThePickleGawd/FaceTimeOS) | [YouTube](https://www.youtube.com/watch?v=zN96RdE0OSg) | [Blog](https://blog.dylanlu.com/cal-hacks-12)
 Multimodal AI Agents in Geometry Dash | [GitHub](https://github.com/ThePickleGawd/geometry-dash-ai) | [YouTube](https://youtu.be/PKDMGPf-PEA) | –
 Voice Agents for macOS | [GitHub](https://github.com/ThePickleGawd/realtime-speech-agents) | [Google Drive](https://drive.google.com/file/d/1JloowwSbQ0DcNZWMM6BvuEYxB-4Mc93c/view) | –
 VR Duolingo with Realtime Conversations | [GitHub](https://github.com/ThePickleGawd/run-from-duo) | [YouTube](https://youtu.be/EEfnGCmj86o) | [Blog](https://blog.dylanlu.com/run-from-duo/)
 Ping Pong Video Reconstruction with AI | [GitHub](https://github.com/ccs-cs1l-f24/SLAM-TT) | [YouTube](https://youtu.be/F_HpfIQpiJo) | [Blog](https://blog.dylanlu.com/slam-tt/)
 
 ### 💼 Experience
+- Machine Learning Research Intern @ [ChipAgents](https://chipagents.ai) (incoming Spring 2026)
+- Undergrad Researcher @ [UCSB NLP Group](http://nlp.cs.ucsb.edu) (2025-present)
 - Machine Learning Engineering Intern @ [TetraMem](https://www.tetramem.com/technology) (2025)
 - Software Engineering Intern @ [Atmosic](https://atmosic.com/technology) (2022)
 
