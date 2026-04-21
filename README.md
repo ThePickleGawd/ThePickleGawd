@@ -8,7 +8,7 @@
   </ul>
 </div>
 
-I research AI agents, RL, and multi-agent systems. I also won the [world's largest collegiate hackathon](https://www.calhacks.io/).
+I research AI agents, RL, and multi-agent systems. I also won the [world's largest collegiate hackathon](https://devpost.com/software/facetime-macos-ai-agent).
 
 [Blog](https://blog.dylanlu.com) | [Resume](https://flowcv.com/resume/wvn6su5ue1)
 
